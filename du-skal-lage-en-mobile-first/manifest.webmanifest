@@ -1,0 +1,9 @@
+{
+  "name": "Ut på tur, aldri sur",
+  "short_name": "Ut på tur",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17231f",
+  "theme_color": "#17231f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
